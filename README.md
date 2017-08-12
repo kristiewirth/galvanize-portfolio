@@ -1,6 +1,6 @@
 # Course Projects
 
-This repository contains code and data for projects completed throughout the Galvanize Immersive Data Science program.
+This repository contains code and data files for projects completed throughout the Galvanize Immersive Data Science program.
 
 ### Regression Case Study
 
