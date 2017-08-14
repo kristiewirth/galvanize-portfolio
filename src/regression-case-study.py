@@ -44,8 +44,8 @@ class EqpRegressor(object):
         Returns best parameter and its negative mean squared error
 
         '''
-        grid = GridSearchCV(model, param_list, scoring='neg_mean_squared_error', cv=10)
-        grid.fit(X_train, y_train)
+        g = GridSearchCV(model, param_list, scoring='neg_mean_squared_error', cv=10)
+        g.fit(X_train, y_train)
         return g.best_params_, g.best_score_
 
     def fit(self, X_train, y_train):
