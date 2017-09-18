@@ -44,3 +44,57 @@ information on usage and equipment configurations."
 
 * [bdoremus](https://github.com/bdoremus)
 * [gregwchase](https://github.com/gregwchase)
+
+### [Recommender Case Study](recommendation-case-study/)
+
+##### Project Goals
+
+"You and a team of talented data scientists are working for the
+company, Items-Legit, who use several production recommenders
+that provide a significant revenue stream.  The issue is that these
+systems have been around a long time and your head of data science has
+asked you and your team members to explore new solutions.
+
+The solution that has been around for so long is called the Mean of
+Means. We can capture these general trends through per-user and per-item rating means. We also incorporate the global mean to smooth things out a bit. At the end of the day you are to present your solution to the bosses
+and the entire product team.  You can assume that they have a very shallow
+depth of knowledge in statistics and big data technologies.
+
+The main goal here is to improve the RMSE, however, another equally
+important goal is to present your model and the details of your
+methods in a clear, but technically sound manner.  You need to
+convince us that you understand the tools you are using AND that it is
+a better way forward. We would also like you to include some discussion about how you would move from prototype to production."
+
+##### Technologies Used
+
+* Python
+* Spark
+
+##### Contributors
+
+* [JordanHagan](https://github.com/JordanHagan)
+* [bdoremus](https://github.com/bdoremus)
+* [tevisgehr](https://github.com/tevisgehr)
+
+### [Fraud Case Study](fraud-case-study/)
+
+##### Project Goals
+
+"You are a contract data scientist/consultant hired by a new e-commerce site to try to weed out fraudsters. The company unfortunately does not have much data science expertise so you must properly scope and present your solution to the manager before you embark on your analysis. Also, you will need to build a sustainable software project that you can hand off to the companies engineers by deploying your model in the cloud."
+
+##### Technologies Used
+
+* Python
+* Neural network
+* Flask
+* HTML
+* Pandas
+* Numpy
+* Seaborn
+
+##### Contributors
+
+* [ocarnes](https://github.com/ocarnes)
+* [maxgrossenbacher](https://github.com/maxgrossenbacher)
+* [arilib](https://github.com/arilib)
