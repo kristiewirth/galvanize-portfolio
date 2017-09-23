@@ -18,7 +18,7 @@ This repository contains code and data files for projects completed throughout t
 * Numpy
 * Seaborn
 
-### Contributors
+### Collaborators
 
 * [ocarnes](https://github.com/ocarnes)
 * [maxgrossenbacher](https://github.com/maxgrossenbacher)
@@ -41,7 +41,7 @@ methods in a clear, but technically sound manner. We would also like you to incl
 * Python
 * Spark
 
-### Contributors
+### Collaborators
 
 * [JordanHagan](https://github.com/JordanHagan)
 * [bdoremus](https://github.com/bdoremus)
@@ -62,7 +62,7 @@ methods in a clear, but technically sound manner. We would also like you to incl
 * Pandas
 * Seaborn
 
-### Contributors
+### Collaborators
 
 * [bdoremus](https://github.com/bdoremus)
 * [gregwchase](https://github.com/gregwchase)
@@ -84,7 +84,7 @@ information on usage and equipment configurations."
 * Matplotlib
 * Numpy
 
-### Contributors
+### Collaborators
 
 * [benjamineverett](https://github.com/benjamineverett)
 * [mchandler13](https://github.com/mchandler13)
